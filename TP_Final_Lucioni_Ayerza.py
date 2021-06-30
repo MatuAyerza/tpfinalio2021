@@ -5,10 +5,11 @@
 # SOBRE EL CODIGO
 #El código está dividido en dos partes, en primer lugar hay una celda (esta) que se encarga de armar y cargar a la consola la lógica detrás de la simulación y la optimización
 #Al final del código se encuentra la segunda celda, que funciona a manera de panel de control para el usuario, donde se pueden tocar y cambiar las variables deseadas para correr el modelo
+#Despues de definir las variables deseadas, correr la celda
 #Los datos provienen de https://fbref.com/en/comps/9/Premier-League-Stats
 
 # LINK AL GITHUB
-
+# https://github.com/MatuAyerza/tpfinalio2021
 
 #Imports
 #Librerias
